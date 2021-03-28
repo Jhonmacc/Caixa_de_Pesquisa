@@ -1,2 +1,2 @@
 # Caixa_de_Pesquisa
-Caixa de Pesquisa usando HTML e CSS.
+Caixa de Pesquisa animada usando HTML e CSS.
